@@ -1,6 +1,3 @@
-https://github.com/cu713p13/AnyDLBot
-
-
 ## [AnyDLBot](https://telegram.dog/AnyDLBot)
 
 **There are multiple things I can do**:

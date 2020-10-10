@@ -1,19 +1,19 @@
 class Translation(object):
-    START_TEXT = """ **Hi,** **Welcome** **To** **@MultiDL_Bot**
+    START_TEXT = """ **Hai,** **Welcome** **To** **@AnyDLTGXBot**
     
-**Iam** **a** **Simpler** **renamer** **bot**
+**I** **am** **a** **Simple** **File** **Renamer** **Bot**
 
-**My** **Credits** **to** **:** **@Amal_PM**
+**My** **Credits** **to** **:** **@Chris_Carlo**
 
 **👉** For Rename To Use **/rename**
 
-**🔷** **Just** **Send** **Me** **A** **File** **😎** """
+**🔷** **Just** **Send** **Me** **a** **File** **😎** """
  
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
     
-    FORMAT_SELECTION = "Got the file. \n now sent me a image if you want to set as custom thumbnail \n and then click the needed format from the below buttons."
+    FORMAT_SELECTION = "Got the file. \n Now sent me a image if you want to set as custom thumbnail \n and then click the needed format from the below buttons."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@GetPublicLinkBot URL detected. Please do not abuse the service!"
@@ -21,16 +21,16 @@ URL | filename | username | password"""
     UPLOAD_START = "**Trying** **to** **Upload..📤**"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank** **you** **For** **using** **Me** **!!**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank** **you** **For** **using** **Me** **😎**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. And \nUploaded in {} seconds."
-    NOT_AUTH_USER_TEXT = "**Please** **Contact** **to** **@Amal_PM**"
+    NOT_AUTH_USER_TEXT = "**Please** **Contact** **to** **@Chris_Carlo**"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ShrimadhaVahdamirhS'>@SpEcHlDe</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "**Custom** **video** **/** **file** **thumbnail** **saved**. **This** **image** **will** **be** **used** **in** **the** **video** **/** **file**."
+    SAVED_CUSTOM_THUMB_NAIL = "**Custom** **Video** **/** **File** **thumbnail** **saved**. **This** **image** **will** **be** **used** **in** **the** **video** **/** **file**."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = " **📤** **Renamed** **by** **@MultiDL_Bot** "
+    CUSTOM_CAPTION_UL_FILE = " **📤** **Renamed** **by** **@AnyDLTGXBot** "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report on https://github.com/spechide/AnyDLBot/issues OR https://telegram.dog/ShrimadhaVahdamirhS\n<b>YouTubeDL</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
